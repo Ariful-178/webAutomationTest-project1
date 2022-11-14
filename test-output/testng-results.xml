@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-14T11:25:46 BDT" name="Default suite" finished-at="2022-11-14T11:26:05 BDT" duration-ms="18410">
+    <groups>
+    </groups>
+    <test started-at="2022-11-14T11:25:46 BDT" name="Default test" finished-at="2022-11-14T11:26:05 BDT" duration-ms="18410">
+      <class name="testCasePakage.tc001">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCasePakage.tc001@172b013]" started-at="2022-11-14T11:25:44 BDT" name="setup" finished-at="2022-11-14T11:25:46 BDT" duration-ms="1684" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="locatorlearn()[pri:0, instance:testCasePakage.tc001@172b013]" started-at="2022-11-14T11:25:46 BDT" name="locatorlearn" finished-at="2022-11-14T11:26:04 BDT" duration-ms="18334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- locatorlearn -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testCasePakage.tc001@172b013]" started-at="2022-11-14T11:26:05 BDT" name="teardown" finished-at="2022-11-14T11:26:05 BDT" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testCasePakage.tc001 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
